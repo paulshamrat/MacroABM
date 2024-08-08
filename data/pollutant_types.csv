@@ -1,0 +1,6 @@
+pollutant_id,name,chemical_formula,source,toxicity
+1,Pollutant_A,C6H6,industrial,5.0
+2,Pollutant_B,SO2,automobile,4.5
+3,Pollutant_C,NO2,industrial,4.0
+4,Pollutant_D,C2H5OH,household,3.5
+5,Pollutant_E,Pb,industrial,5.5

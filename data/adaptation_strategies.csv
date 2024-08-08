@@ -1,0 +1,6 @@
+species_id,adaptation_type,adaptation_effectiveness,adaptation_time
+1,tolerance,0.7,30
+2,avoidance,0.5,45
+3,behavioral_change,0.6,60
+4,physiological_change,0.8,40
+5,migration,0.9,35

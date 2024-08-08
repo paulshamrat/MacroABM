@@ -1,0 +1,6 @@
+species_id,name,ecological_role,interaction_type,diet,habitat_preference,latitude,longitude
+1,Species_A,filter_feeder,neutral,plankton,shallow_water,8.786430706918452,52.5218807039962
+2,Species_B,predator,predation,small_fish,deep_water,38.73408594703551,-22.468603945430687
+3,Species_C,scavenger,competition,detritus,benthic,18.49740769289589,141.03828028154874
+4,Species_D,herbivore,competition,algae,reef,8.078972939441442,166.91859378037054
+5,Species_E,omnivore,neutral,varied,mudflats,-13.742136118997152,-41.96105322272004

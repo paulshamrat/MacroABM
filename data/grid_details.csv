@@ -1,0 +1,6 @@
+grid_id,x_coordinate,y_coordinate,size,habitat_type
+1,0,0,100,sand
+2,1,0,100,mud
+3,2,1,100,rock
+4,3,1,100,coral
+5,4,2,100,mud

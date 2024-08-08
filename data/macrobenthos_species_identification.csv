@@ -1,0 +1,6 @@
+species_id,name,ecological_role,interaction_type,diet,habitat_preference
+1,Species_A,filter_feeder,neutral,plankton,shallow_water
+2,Species_B,predator,predation,small_fish,deep_water
+3,Species_C,scavenger,competition,detritus,benthic
+4,Species_D,herbivore,competition,algae,reef
+5,Species_E,omnivore,neutral,varied,mudflats

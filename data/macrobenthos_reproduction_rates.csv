@@ -1,0 +1,6 @@
+species_id,baseline_reproduction_rate,temperature_sensitivity,pollutant_sensitivity,food_availability_sensitivity
+1,0.2,0.05,0.1,0.1
+2,0.15,0.07,0.2,0.12
+3,0.18,0.06,0.15,0.08
+4,0.25,0.08,0.3,0.14
+5,0.22,0.04,0.25,0.1

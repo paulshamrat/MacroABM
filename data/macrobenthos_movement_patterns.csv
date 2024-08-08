@@ -1,0 +1,6 @@
+species_id,movement_range,migration_pattern,migration_frequency,movement_speed
+1,5,random,10,0.5
+2,3,directional,15,0.3
+3,4,seasonal,8,0.4
+4,6,local,12,0.6
+5,2,nomadic,6,0.2
